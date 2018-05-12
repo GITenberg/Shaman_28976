@@ -1,0 +1,33 @@
+_repo: Shaman_28976
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shea, Robert
+    aliases:
+    - Shea, Robert J.
+    - Shea, Robert Joseph
+    birthdate: 1933
+    deathdate: 1994
+    gutenberg_agent_id: '33088'
+    url: http://www.gutenberg.org/2009/agents/33088
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Shea
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28976'
+  lccn: '90093215'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Black Hawk War, 1832 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Sauk Indians -- Fiction'
+title: Shaman
+url: http://www.gutenberg.org/ebooks/28976
